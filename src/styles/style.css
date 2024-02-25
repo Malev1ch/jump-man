@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Monument Extended Regular'; 
+	src: url(/src/styles/fonts/MonumentExtended-Regular.otf); 
+}
+@font-face {
+	font-family: 'Monument Extended Bold'; 
+	src: url(/src/styles/fonts/MonumentExtended-Ultrabold.otf); 
+}
+
+h1 {
+    font-size: 20px;
+    font-family: 'Monument Extended Regular';
+    font-weight: 800;
+	color: white;
+}

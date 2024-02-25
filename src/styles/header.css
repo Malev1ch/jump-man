@@ -1,0 +1,18 @@
+
+.header-block-space-between, .header-block-ul-sapce, .header-block-right-flex {
+    display: flex;
+    justify-content: space-around;
+    gap: 40px;
+    align-items: center;
+}
+.header-block-ul-li {
+    font-family: 'Monument Extended Bold';
+    color: white;
+    list-style-type: none;
+    font-size: 13px;
+    line-height: 16px;
+    letter-spacing: 10px;
+    font-weight: 800;
+    text-align: left;
+    text-transform: uppercase;
+}
